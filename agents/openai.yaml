@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片故事与音乐卡点"
+  short_description: "根据选题与图片 ZIP，复用裁切筛选排序工具，用 Remotion 编排音乐卡点成片"
+  default_prompt: "用 $image-beat-story，根据我的选题、图片 ZIP 和 BGM 编排卡点视频，复用现成工具并给出可播放预览。"

@@ -1,0 +1,8 @@
+Pillow
+numpy
+scipy
+opencv-python
+scikit-image
+requests
+imageio-ffmpeg
+matplotlib

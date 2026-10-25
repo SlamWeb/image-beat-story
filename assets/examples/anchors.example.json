@@ -1,0 +1,20 @@
+{
+  "reference": "img-0001",
+  "defaults": {
+    "maxXShift": 32,
+    "maxYShift": 24,
+    "maxScaleChange": 0.08,
+    "minConfidence": 0.3,
+    "scaleRange": [0.9, 1.1, 21],
+    "canny": [60, 150],
+    "minEdgePixels": 20,
+    "baseline": "reference"
+  },
+  "anchors": [
+    {
+      "name": "example-anchor-replace-after-viewing",
+      "roi": [312, 311, 475, 225],
+      "searchRoi": [197, 216, 700, 430]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "startSeconds": 0.05,
+  "endSeconds": 2.5,
+  "fps": 60,
+  "visualOffsetFrames": -1,
+  "imageIds": ["img-0001", "img-0002", "img-0003"],
+  "eventIds": ["event-0001", "event-0002", "event-0003"],
+  "transition": "press",
+  "eventTransitions": {},
+  "preFrames": 6,
+  "postFrames": 12,
+  "releaseFrames": 22,
+  "fadeOutSeconds": 0.35,
+  "motion": {"environmentEV": 0}
+}

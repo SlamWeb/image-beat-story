@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "width": 1080,
+  "height": 1440,
+  "fps": 60,
+  "durationInFrames": 120,
+  "mode": "dissolve",
+  "shots": [
+    {"id": "example-1", "src": "images/example-1.svg", "impactFrame": 0, "preFrames": 0, "postFrames": 12, "releaseFrames": 22, "intensity": 0.8, "eventType": "onset"},
+    {"id": "example-2", "src": "images/example-2.svg", "impactFrame": 60, "preFrames": 6, "postFrames": 12, "releaseFrames": 22, "intensity": 0.8, "eventType": "onset"}
+  ]
+}
